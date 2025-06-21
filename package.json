@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/EshPalani/berr2243-25#readme",
   "dependencies": {
+    "express": "^5.1.0",
     "mongodb": "^6.17.0"
   }
 }
